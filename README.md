@@ -5,7 +5,7 @@
 
 - I’m currently learning **JS, React**
 
-- Ask me about **HTML, CSS**
+- Ask me about **HTML, CSS** test
 
 - How to reach me **martiksimonian27@gmail.com**
 <p align="left">
